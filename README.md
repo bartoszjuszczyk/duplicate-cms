@@ -6,6 +6,13 @@ The Juszczyk_DuplicateCms module enables you to duplicate CMS blocks and CMS pag
 
 The Juszczyk_DuplicateCms module does not make any changes in database. You can disable or remove this module.
 
+I recommend installing the module via composer. You can do this by executing the command in the Magento root directory:
+```
+composer require juszczyk/module-duplicate-cms
+```
+
+After that you should follow the further instructions below.
+
 For information about a module installation in Magento 2, see [Enable or disable modules](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/tutorials/manage-modules.html).
 
 ## Usage
@@ -16,7 +23,7 @@ For information about a module installation in Magento 2, see [Enable or disable
 3. From the action dropdown, choose "Duplicate."
 4. Confirm the action, and the selected blocks/pages will be duplicated.
 
-![Mass action example](https://github.com/bartoszjuszczyk/media/assets/128232518/65b30ca4-256a-4c3c-bb2f-b6f47e4983e9)
+![Mass action example](https://github.com/bartoszjuszczyk/media/assets/128232518/7b7ceb9b-f27d-4037-bcea-c7321c059614)
 
 
 ### Duplicate from Block/Page Edit View:
@@ -24,7 +31,7 @@ For information about a module installation in Magento 2, see [Enable or disable
 2. In the button bar, find and click the "Duplicate" button.
 3. Confirm the action, and a new block/page will be created with the same content.
 
-![Edit form example](https://github.com/bartoszjuszczyk/media/assets/128232518/f90c67eb-5f92-45f8-bfb9-177b54150c2e)
+![Edit form example](https://github.com/bartoszjuszczyk/media/assets/128232518/39473c08-69ed-4a11-a1a4-77ab6f12b55d)
 
 
 ### Duplicate from Block/Page Listing:
@@ -33,7 +40,7 @@ For information about a module installation in Magento 2, see [Enable or disable
 3. Locate the "Duplicate" action associated with the specific block/page.
 4. Click "Duplicate," confirm the action, and a new block/page will be created.
 
-![Listing actions example](https://github.com/bartoszjuszczyk/media/assets/128232518/d99f9c70-d06c-4d3b-8e7a-14630ffda059)
+![Listing actions example](https://github.com/bartoszjuszczyk/media/assets/128232518/f5b8cc8a-d14f-4bf5-815f-254294e21f32)
 
 Remember to review the duplicated content and adjust any specific details if needed. This module streamlines the process for duplicating CMS blocks and pages efficiently.
 
