@@ -1,3 +1,7 @@
+<!-- GitAds-Verify: PLKX2F6MCXN7TFQI529T5CFUJI897IQV -->
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=bartoszjuszczyk/duplicate-cms@github)](https://gitads.dev/v1/ad-track?source=bartoszjuszczyk/duplicate-cms@github)
+
 # Juszczyk_DuplicateCms module
 
 The Juszczyk_DuplicateCms module enables you to duplicate CMS blocks and CMS pages.
@@ -53,5 +57,3 @@ Extension developers can interact with the Juszczyk_DuplicateCms module. For mor
 ## Dependencies
 
 The Juszczyk_DuplicateCms module extends the functionality of the Magento_Cms module.
-
-<!-- GitAds-Verify: PLKX2F6MCXN7TFQI529T5CFUJI897IQV -->
