@@ -53,3 +53,5 @@ Extension developers can interact with the Juszczyk_DuplicateCms module. For mor
 ## Dependencies
 
 The Juszczyk_DuplicateCms module extends the functionality of the Magento_Cms module.
+
+<!-- GitAds-Verify: PLKX2F6MCXN7TFQI529T5CFUJI897IQV -->
